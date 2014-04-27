@@ -24,7 +24,7 @@ SCREEN_SIZE = n,n
 WHITE = (255,255,255)
 BLACK = (0,0,0)
 SQUARE = 5
-initial_percent = 15 #'percentage density' of initial population
+initial_percent = 10 #'percentage density' of initial population
 
 screen = pygame.display.set_mode(SCREEN_SIZE)
 screen.fill(WHITE)
